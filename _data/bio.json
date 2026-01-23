@@ -5,8 +5,8 @@
     "picture": "/img/rileyherra.jpg",
     "phone": "808-829-6792",
     "website": "https://rileyherra.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a B.S. in Computer Science with a focus in the Security Science track at the University of Hawaii at Manoa. I expect to graduate in Spring 2028.",
+    "location": { "address": "", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "rileyherra", "url": "http://github.com/rileyherra" },
       { "network": "linkedin", "username": "rileyherradura", "url": "http://linkedin.com/in/rileyherradura" }
@@ -33,9 +33,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring 2028)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2024-08-26",
       "endDate": "Present",
       "courses": [
       ]
