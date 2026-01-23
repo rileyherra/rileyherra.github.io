@@ -21,7 +21,7 @@ TypeScript has been a surprisingly positive experience so far, mostly because it
 
 I’ve actually enjoyed the athletic software engineering style of learning through the practice WODs. The timed format can be stressful, but it also feels realistic: you’re working under pressure, but you still have access to resources, which is how real programming works. I’ve found that the WODs have helped improve my problem solving because they push me to think faster and adapt to keep moving forward instead of staring at my screen. Overall, TypeScript and this module have made me feel more capable not just as a student completing assignments, but as someone building skills that can carry into real projects.
 
-![](/img/mc3-intern.jpeg)
+![](/img/mc3-intern.JPEG)
 ## Connections to the "Real World": Growing as a Developer
 
 This module also feels relevant to what I’m doing outside of class. I’m currently interning with MC3 Technologies throughout my college career, and I’ve had opportunities to contribute through more “behind-the-scenes” work like physical IT support with clients, project management tasks, and helping keep systems running smoothly. I’ve also helped design, organize, and run a Discord server for a cohort of students. While I’ve learned a lot from these experiences, I’m excited to build more front-end and development-focused skills so I can contribute more directly on the software side of the company, especially with projects like the GRC website to help local small-medium businesses work towards being CMMC compliant.
