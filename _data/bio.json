@@ -3,31 +3,33 @@
     "name": "Riley Herradura",
     "label": "Student",
     "picture": "/img/rileyherra.jpg",
-    "phone": "808-829-6792",
+    "phone": "",
     "website": "https://rileyherra.github.io",
     "summary": "I am studying for a B.S. in Computer Science with a focus in the Security Science track at the University of Hawaii at Manoa. I expect to graduate in Spring 2028.",
     "location": { "address": "", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "rileyherra", "url": "http://github.com/rileyherra" },
-      { "network": "linkedin", "username": "rileyherradura", "url": "http://linkedin.com/in/rileyherradura" }
+      { "network": "email", "username": "riley.herradura@gmail.com", "url": "mailto:riley.herradura@gmail.com"},
+      { "network": "linkedin", "username": "Connect with me!", "url": "https://www.linkedin.com/in/riley-herradura-a28098312/" }
 
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Information Technology" },
+    { "name": "Cybersecurity" },
+    { "name": "Governance, Risk, and Compliance (GRC)" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Fishing" },
+    { "name": "Fitness" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "TypeScript", "Python"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Windows", "Unix", "gcc/g++", "Git/GitHub", "VS Code"]
     }
   ],
   "education": [
