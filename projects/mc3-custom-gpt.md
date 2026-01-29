@@ -1,59 +1,45 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+image: img/projects/gpt-logo.png
+title: "MC3 Technologies Cyber Assistant"
+date: 2024
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - AI
+  - GRC
+  - CMMC
+  - Prompt Engineering
+summary: "A custom GPT that was embedded into MC3 Technologies’ Governance, Risk, and Compliance website to provide instant assistance with CMMC compliance and cyber hygiene."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/projects/gpt-logo.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+I worked alongside a teammate to build a custom GPT compliance assistant for MC3 Technologies and it was integrated into the company’s Governance, Risk, and Compliance (GRC) website. The assistant was documented and prompt-trained on CMMC IG1 standards to give small and medium-sized businesses (SMBs) quick and easily accessible assistance to their cyber needs.
 
-To give you a flavor of the game, here is an excerpt from one run:
+For many SMBs, becoming CMMC Level 1 compliant helps ensure they meet basic cybersecurity expectations when working with the Department of Defense.
 
+### What it does
+- Translates CMMC IG1 requirements into plain-language explanations and actionable next steps.
+- Helps users draft and refine policy language, procedures, and evidence checklists aligned to common assessment expectations.
+- Provides implementation tips and examples tailored to typical SMB environments.
+
+### Example output format
 <hr>
 
 <pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+User: "What do I need for access control at IG1?"
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
+Assistant:
+1) What the requirement means (plain language)
+2) What to implement (practical steps)
+3) What evidence to collect (audit-ready artifacts)
+4) Common pitfalls (what assessors flag)
+5) Quick checklist (copy/paste)
 </pre>
+
+<img class="img-fluid" src="../img/projects/gpt-output.png">
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://chatgpt.com/g/g-iqywRe9sH-mc3-technologies-cyber-assistant" target="_blank"><i class="large link icon"></i>View the Custom GPT</a>
