@@ -13,7 +13,8 @@ labels:
 summary: "A custom GPT that was embedded into MC3 Technologies’ Governance, Risk, and Compliance website to provide instant assistance with CMMC compliance and cyber hygiene."
 ---
 
-<img class="img-fluid" src="../img/projects/gpt-logo.png" style="max-width: 400px;">
+<img class="img-fluid" src="../img/projects/gpt-logo.png"
+     style="max-width: 300px; display: block; margin: 0 auto;">
 
 I worked alongside a teammate to build a **custom GPT compliance assistant for MC3 Technologies**, and it was integrated into the company’s Governance, Risk, and Compliance (GRC) website. The assistant was documented and prompt-trained on CMMC IG1 standards to give small and medium-sized businesses (SMBs) quick and easily accessible assistance to their cyber needs.
 
