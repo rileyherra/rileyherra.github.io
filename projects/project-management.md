@@ -22,9 +22,6 @@ During MC3 Technologies’ summer intern cohort, I supported **project coordinat
   <!-- Left: Image with note underneath -->
   <div style="max-width: 350px;">
     <img class="img-fluid" src="../img/projects/ms-planner.png" style="width: 100%; height: auto;">
-    <p style="font-style: italic; margin-top: 10px;">
-      Note: This screenshot shows an example of an MS Planner task bucket, where project deliverables were organized into task lists with subtasks and progress tracking.
-    </p>
   </div>
 
   <!-- Right: Project details -->
@@ -41,14 +38,17 @@ During MC3 Technologies’ summer intern cohort, I supported **project coordinat
     <ul>
       <li>Improved visibility and organization of project progress across the remote intern team</li>
     </ul>
+    <p style="font-style: italic; margin-top: 10px;">
+      Note: This screenshot shows an example of an MS Planner task bucket, where project deliverables were organized into task lists with subtasks and progress tracking.
+    </p>
   </div>
 
 </div>
 
 <!-- Intern team collaboration photo -->
-<div style="margin-top: 30px; text-align: center;">
+<div style="margin-top: 30px; text-align: left;">
   <img src="../img/projects/drone-group-pic.jpg"
-       style="max-width: 600px; width: 100%; height: auto; border-radius: 12px;">
+       style="max-width: 600px; width: 100%; height: auto;">
 </div>
 
 <hr>
