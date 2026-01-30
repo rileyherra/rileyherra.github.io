@@ -15,7 +15,7 @@ summary: "A summer internship project focused on coordinating tasks and team com
 <img class="img-fluid" src="../img/projects/mc3-logo.webp"
      style="max-width: 300px; display: block; margin: 0 auto;">
 
-During MC3 Technologies’ summer intern cohort, I supported project coordination for a drone initiative by organizing deliverables in MS Planner and collaborating with the team through daily Zoom Scrum check-ins.
+During MC3 Technologies’ summer intern cohort, I supported **project coordination for a drone initiative** by organizing deliverables in MS Planner and collaborating with the team through daily Zoom Scrum check-ins.
 
 ### Example project tracking
 <div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
