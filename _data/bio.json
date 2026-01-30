@@ -11,7 +11,6 @@
     "profiles": [
       { "network": "github", "username": "rileyherra", "url": "http://github.com/rileyherra" },
       { "network": "linkedin", "username": "Connect with me!", "url": "https://www.linkedin.com/in/riley-herradura-a28098312/" }
-
     ]
   },
   "interests": [
@@ -39,14 +38,14 @@
       "studyType": "B.S.",
       "startDate": "2024-08-26",
       "endDate": "Present",
-      "courses": ["ICS 111", "ICS 211", "ICS 212", "ICS 241"]
+      "courses": ["ICS 111", "ICS 211", "ICS 212", "ICS 241", "Currently enrolled in ICS 311, ICS 314"]
     }
   ],
 "work": [
   {
     "company": "UH Manoa Leap-Start Program",
     "position": "Information Technology Student Assistant",
-    "website": "",
+    "website": "https://sites.google.com/hawaii.edu/leap-start/home",
     "startDate": "2024-08-01",
     "endDate": "Present",
     "summary": "Continuation of MC3 Technologies internship under UH Manoa’s Leap-Start Program.",
@@ -57,8 +56,8 @@
     ]
   },
   {
-    "company": "Good Jobs Hawaii",
-    "position": "Summer Intern, MC3 Technologies",
+    "company": "STEMworks Hawaii",
+    "position": "Cybersecurity Intern, MC3 Technologies",
     "website": "",
     "startDate": "2024-06-03",
     "endDate": "2024-07-12",
