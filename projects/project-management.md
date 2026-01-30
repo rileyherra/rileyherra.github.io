@@ -42,6 +42,13 @@ During MC3 Technologies’ summer intern cohort, I supported **project coordinat
       <li>Improved visibility and organization of project progress across the remote intern team</li>
     </ul>
   </div>
+
+</div>
+
+<!-- Intern team collaboration photo -->
+<div style="margin-top: 30px; text-align: center;">
+  <img src="../img/projects/drone-group-pic.jpg"
+       style="max-width: 600px; width: 100%; height: auto; border-radius: 12px;">
 </div>
 
 <hr>
