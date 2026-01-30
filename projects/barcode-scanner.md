@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/projects/barcode-scanner.jpg
+image: img/projects/barcode.webp
 title: "Barcode Inventory Tracking System"
 summary: "Built a barcode-based inventory system using Google Forms to track my high school's Creative Media Academy equipment."
 date: 2024-04-01
