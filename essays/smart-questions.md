@@ -13,13 +13,17 @@ labels:
 
 Eric Raymond’s essay *How to Ask Questions the Smart Way* made me realize that getting good help online depends a lot on how you ask. In software engineering, communication matters just as much as technical skills, especially when you’re working with other developers in open source communities. Sites like Stack Overflow are full of people who volunteer their time, so asking clear and detailed questions is one of the best ways to get useful answers.
 
+
 ## Example of a “Smart” Question
+<img src="/img/smart-funny.png" style="width: 260px; height: auto; border-radius: 12px;" />
 
 A strong example of a smart question is: [Why does macOS MultitouchSupport framework crash if MTDeviceStop is called immediately after MTUnregisterContactFrameCallback?](https://stackoverflow.com/questions/79879212/why-does-macos-multitouchsupport-framework-crash-if-mtdevicestop-is-called-immed)
 
 In this post, the developer describes a crash happening on macOS when working with trackpad touch input. The question is a great example of asking for help the “smart way” because the author clearly explains what they were trying to do, shows the exact steps that cause the problem, and includes a small code example that reproduces the crash. They also provide important context such as the macOS versions and hardware involved, along with specific error messages and the fact that the issue depends on timing. Finally, they explain what they already tried as a workaround instead of expecting others to guess. Instead of posting something vague like “my program doesn’t work,” the developer gives enough detail for others to actually investigate their issue.
 
+
 ## Example of a “Not So Smart” Question
+<img src="/img/dumb-funny.jpg" style="width: 260px; height: auto; border-radius: 12px;" />
 
 An example of a poorly asked question is: [R studio is frozen](https://stackoverflow.com/questions/79879198/r-studio-is-frozen)
 
