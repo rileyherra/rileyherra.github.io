@@ -3,13 +3,13 @@
     "name": "Riley Herradura",
     "label": "Student",
     "picture": "/img/rileyherra.jpg",
+    "email": "riley.herradura@gmail.com",
     "phone": "",
     "website": "https://rileyherra.github.io",
     "summary": "I am studying for a B.S. in Computer Science with a focus in the Security Science track at the University of Hawaii at Manoa. I expect to graduate in Spring 2028.",
     "location": { "address": "", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "rileyherra", "url": "http://github.com/rileyherra" },
-      { "network": "email", "username": "riley.herradura@gmail.com", "url": "mailto:riley.herradura@gmail.com"},
       { "network": "linkedin", "username": "Connect with me!", "url": "https://www.linkedin.com/in/riley-herradura-a28098312/" }
 
     ]
@@ -39,75 +39,65 @@
       "studyType": "B.S.",
       "startDate": "2024-08-26",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": ["ICS 111", "ICS 211", "ICS 212", "ICS 241"]
     }
   ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
+"work": [
+  {
+    "company": "UH Manoa Leap-Start Program",
+    "position": "Information Technology Student Assistant",
+    "website": "",
+    "startDate": "2024-08-01",
+    "endDate": "Present",
+    "summary": "Continuation of MC3 Technologies internship under UH Manoa’s Leap-Start Program.",
+    "highlights": [
+      "Provided IT services for clients including networking support and device setup",
+      "Partnered with Puea Learning Center to offer a free cybersecurity/IT course for underserved students",
+      "Helped design, develop, and moderate a Discord server for course engagement and support"
+    ]
+  },
+  {
+    "company": "Good Jobs Hawaii",
+    "position": "Summer Intern, MC3 Technologies",
+    "website": "",
+    "startDate": "2024-06-03",
+    "endDate": "2024-07-12",
+    "summary": "Remote internship supporting cybersecurity risk assessment and training.",
+    "highlights": [
+      "Assisted in identifying and mitigating cybersecurity risks within organizations",
+      "Participated in cybersecurity training sessions to stay current on industry trends and developments",
+      "Helped develop a custom GPT to assist with cyber assessments"
+    ]
+  }
+],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "MC3 Technologies",
+      "website": "https://mc3technologies.com",
+      "position": "Project Manager Intern",
+      "startDate": "2025-06-06",
+      "endDate": "2025-08-13",
+      "summary": "Supported project management and coordination for a multi-team drone development initiative.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Assisted in daily scrums and sprint planning sessions using Agile project management methods",
+        "Managed Microsoft Planner boards to track tasks, blockers, and deadlines across 8 student teams",
+        "Coordinated communication between teams to ensure project deliverables remained aligned and on schedule",
+        "Presented the drone project at the Pacific Impact Zone to community members and industry attendees"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2024-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Merit-based scholarship awarded for academic achievement as an incoming student at the University of Hawaii at Manoa."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "NMSI STEM STAR Student Award",
+      "date": "2024",
+      "awarder": "National Math and Science Initiative (NMSI)",
+      "summary": "Recognized for excellence and achievement in STEM coursework during high school."
     }
   ],
   "references": [
