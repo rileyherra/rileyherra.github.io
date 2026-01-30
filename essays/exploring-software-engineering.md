@@ -10,6 +10,10 @@ labels:
   - Goals
 ---
 
+<p style="text-align: center;">
+  <img src="/img/code-org-logo.png" style="width: 220px; height: auto; border-radius: 12px;" />
+</p>
+
 ## Interests in Software Engineering
 
 My interest in software engineering started with simple Code.org activities back in elementary school. I thought it was really cool that you could build something just by putting steps together. Since then, I’ve learned that software engineering is not only about coding, but also about how technology is planned, designed, and improved over time. Even though programming isn’t always my favorite part, I’m interested in the bigger process of creating useful systems that people can rely on.
