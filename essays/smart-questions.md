@@ -15,7 +15,8 @@ Eric Raymond’s essay *How to Ask Questions the Smart Way* made me realize that
 
 
 ## Example of a “Smart” Question
-<img src="/img/smart-funny.png" style="width: 260px; height: auto; float: right; margin: 0 0 12px 16px;" />
+<img src="/img/smart-funny.png"
+     style="width: 300px; height: auto; float: right; margin: 0 0 12px 16px; border-radius: 12px;" />
 
 A strong example of a smart question is: [Why does macOS MultitouchSupport framework crash if MTDeviceStop is called immediately after MTUnregisterContactFrameCallback?](https://stackoverflow.com/questions/79879212/why-does-macos-multitouchsupport-framework-crash-if-mtdevicestop-is-called-immed)
 
@@ -24,8 +25,9 @@ In this post, the developer describes a crash happening on macOS when working wi
 <div style="clear: both;"></div>
 
 ## Example of a “Not So Smart” Question
-<img src="/img/dumb-funny.jpg" style="width: 260px; height: auto; float: right; margin: 0 0 12px 16px;" />
-
+<img src="/img/dumb-funny.jpg"
+     style="width: 300px; height: auto; float: right; margin: 0 0 12px 16px; border-radius: 12px;" />
+     
 An example of a poorly asked question is: [R studio is frozen](https://stackoverflow.com/questions/79879198/r-studio-is-frozen)
 
 In this post, the developer only says that RStudio froze and that code which worked yesterday is now stuck. However, they don’t provide any error messages, code snippets, or system details. Because the question is so vague, it’s basically impossible for other developers to diagnose what is actually happening. Instead of receiving answers, the author received downvotes. This demonstrates the negative outcome of asking questions in a “not smart” way because the community cannot help when the question is too vague.
