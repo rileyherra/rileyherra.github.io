@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/projects/mc3-logo.webp
 title: "Drone Initiative Project Coordination"
-date: 2025
+date: Summer 2025
 published: true
 labels:
   - Agile

@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/projects/gpt-logo.png
 title: "MC3 Technologies Cyber Assistant"
-date: 2024
+date: Summer 2024
 published: true
 labels:
   - AI
