@@ -5,8 +5,8 @@ title: "TypeScript With a Purpose"
 date: 22 Jan 2026
 published: true
 labels:
-  - ICS314
   - TypeScript
+  - Learning
 ---
 <img src="/img/typescript-logo.jpg" style="width: 220px; height: auto; border-radius: 12px;" />
 
