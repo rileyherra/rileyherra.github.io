@@ -11,11 +11,13 @@ labels:
   - Barcode Tracking
 ---
 
-<img src="/img/projects/barcode-scanner.jpg" style="width: 420px; height: auto; border-radius: 12px;" />
+<img src="/img/projects/barcode-scanner.jpg" style="width: 320px; height: auto; border-radius: 12px; float: left; margin: 0 16px 12px 0;" />
 
 ## Overview
 
 During high school, I worked on a project to improve how our Creative Media Academy tracked classroom equipment. Cameras, microphones, and other gear were constantly being checked in and out, and it was easy for items to get misplaced over time.
+
+<div style="clear: both;"></div>
 
 ## What We Built
 
