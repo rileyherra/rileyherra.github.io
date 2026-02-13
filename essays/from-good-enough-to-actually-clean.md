@@ -14,11 +14,13 @@ labels:
 Before taking ICS 314, my standard for code was simple: if it compiled and ran, I was done. I didn’t really care about formatting rules or style warnings. In past classes, I would see Checkstyle errors and mostly ignore them unless they affected my grade. To me, coding standards seemed like minor details that didn’t actually change the output of the program. If the computer understood my code, that was good enough. After using ESLint with VSCode for the first time, I started to realize that mindset was incomplete.
 
 <img src="/img/coding_standard.jpg"
-     style="width: 400px; height: auto; display: block; margin: 20px auto; border-radius: 8px;" />
+     style="width: 350px; height: auto; float: left; margin: 0 20px 15px 0; border-radius: 8px;" />
 
 ## The ESLint Wake‑Up Call
 
 After using ESLint in VSCode, I started to understand why coding standards matter. At first, all the warnings were annoying. There were red and yellow lines everywhere pointing out things I normally would have ignored. But most of them were easy to fix, and with one command a lot of formatting issues could be corrected automatically. Once I realized cleaning up my code didn’t actually take much extra time, it stopped feeling like pointless work.
+
+<div style="clear: both;"></div>
 
 ## More Than Just Formatting
 
