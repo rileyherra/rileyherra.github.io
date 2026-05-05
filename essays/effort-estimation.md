@@ -11,7 +11,7 @@ labels:
 ---
 
 ## Why Did We Even Have to Do This?
-<img src="/img/software_estimates_meme.jpeg" style="float: right; width: 250px; margin: 0 0 10px 15px;" />
+<img src="../img/software_estimates_meme.jpeg" style="float: right; width: 250px; margin: 0 0 10px 15px;" />
 
 When I was first introduced to effort estimation, it felt pretty useless. However, after applying it throughout the final project, I began to see its value. It helped me better understand how I was actually spending my time and gave me a way to reflect on the difference between my initial estimates and the actual time required to complete tasks. My effort estimation process was mostly based on intuition and prior experience from similar assignments. If a task felt familiar, I assumed it would take about the same amount of time, which often led to inconsistent estimates.
 
