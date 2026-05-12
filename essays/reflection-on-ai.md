@@ -1,11 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "AI"
+title: "Software Engineering in the Age of AI"
 date: 11 May 2026
 published: true
 labels:
-  - AI
+  - Artificial Intelligence
+  - Software Engineering
+  - Reflection
 ---
 
 # I. Introduction
