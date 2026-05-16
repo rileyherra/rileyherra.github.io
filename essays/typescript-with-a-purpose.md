@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "TypeScript With a Purpose"
 date: 22 Jan 2026
-published: true
+published: false
 labels:
   - TypeScript
   - Learning

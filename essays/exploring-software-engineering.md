@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Exploring Software Engineering"
 date: 29 Jan 2026
-published: true
+published: false
 labels:
   - Software Engineering
   - Interests
