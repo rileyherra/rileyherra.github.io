@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/projects/cycle5ense.webp
+image: img/projects/cycle5ense-logo.png
 title: "Cycle5ense"
 summary: "Built a web app for UH Mānoa students featuring the campus map with recycling bin locations, as well as recycling guidance and statistics."
 date: 2026
