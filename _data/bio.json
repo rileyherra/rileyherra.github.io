@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Riley Herradura",
-    "label": "Student",
+    "label": "Computer Science Student | Cybersecurity Intern",
     "picture": "/img/rileyherra.jpg",
     "email": "riley.herradura@gmail.com",
     "phone": "",
     "website": "https://rileyherra.github.io",
-    "summary": "I am studying for a B.S. in Computer Science with a focus in the Security Science track at the University of Hawaii at Manoa. I expect to graduate in Spring 2028.",
+    "summary": "Computer Science student at the University of Hawaii at Manoa pursuing the Security Science track with experience in cybersecurity, IT support, Agile project coordination, and software engineering. Expected graduation: Spring 2028.",
     "location": { "address": "", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "rileyherra", "url": "http://github.com/rileyherra" },
@@ -19,16 +19,17 @@
     { "name": "Governance, Risk, and Compliance (GRC)" },
     { "name": "Artificial Intelligence" },
     { "name": "Fishing" },
+    { "name": "Fashion" },
     { "name": "Fitness" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "TypeScript", "Python"]
+      "keywords": [ "C", "C++", "Java", "JavaScript", "TypeScript", "Python", "React", "Bootstrap" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Unix", "gcc/g++", "Git/GitHub", "VS Code"]
+      "keywords": [ "MacOS", "Windows", "Unix/Linux", "gcc/g++", "Git/GitHub", "VS Code", "Agile/Scrum" ]
     }
   ],
   "education": [
@@ -38,7 +39,15 @@
       "studyType": "B.S.",
       "startDate": "2024-08-26",
       "endDate": "Present",
-      "courses": ["ICS 111", "ICS 211", "ICS 212", "ICS 241", "Currently enrolled in ICS 311, ICS 314"]
+      "courses": [
+        "Intro to Computer Science I - ICS 111",
+        "Intro to Computer Science II - ICS 211",
+        "Discrete Mathematics I - ICS 141",
+        "Discrete Mathematics II - ICS 241",
+        "Program Structure - ICS 212",
+        "Algorithms - ICS 311",
+        "Software Engineering I - ICS 314"
+      ]
     }
   ],
 "work": [
